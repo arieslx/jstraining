@@ -308,6 +308,8 @@ var journal = new Vue({
 
 后端接口一般是 REST 形式，前后端的通信协议一般是 HTTP。
 
+- [ ] [怎样用通俗的语言解释REST，以及RESTful？](https://www.zhihu.com/question/28557115) 更新时间：2018/12/6
+
 ---
 
 ## Node
@@ -334,6 +336,11 @@ Node = JavaScript + 操作系统 API
 - 大量使用服务器端工具
 - 引入持续集成等软件工程的标准流程
 - 开发完成后，编译成浏览器可以运行的脚本，放上 CDN
+
+- [ ] [大公司里怎样开发和部署前端代码？](https://www.zhihu.com/question/20790576) 更新时间：2018/12/6
+
+
+
 
 ---
 

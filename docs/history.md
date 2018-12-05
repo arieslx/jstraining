@@ -295,6 +295,9 @@ var journal = new Vue({
 
 前端不再是后端 MVC 中的 V，而是单独的一层。
 
+- [ ] [前后端分离（SPA等）与不分离（JSP等）的工作流程分别是怎样的](https://www.jianshu.com/p/25695e75883f) 更新时间：2018/12/5
+ - [ ] [你不得不了解的前后端分离原理！](https://juejin.im/post/5b71302351882560ea4afbb8) 更新时间：2018/12/5
+
 ---
 
 ## REST 接口
